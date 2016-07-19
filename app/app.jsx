@@ -14,8 +14,8 @@ var Examples = require('Components/Examples');
 require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation();
 
-// App CSS
-require('style!css!Styles/app.css');
+// App SCSS
+require('style!css!sass!Styles/app.scss');
 
 ReactDOM.render(
 	<Router history={hashHistory}>
