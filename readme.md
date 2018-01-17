@@ -1,6 +1,6 @@
 # Get Weather app in React
 
-This is weather application build on React. I have built this for The Compolete React Web App Developer Course.
+This is weather application build on React. I have built this for The Complete React Web App Developer Course.
 
 ## Tools used
   - [React] - This was the JavaScript framework used.
